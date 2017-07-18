@@ -1,0 +1,14 @@
+Package: toyPackage
+Type: Package
+Title: Illustrates a Minimal Package
+Version: 0.1.0
+Author: person("Juexin","Lin",email="linjuexin@gmail.com",role=c("aut","cre"))
+Maintainer: JuexinLin <linjuexin@gmail.com>
+Description: Trying to get something working quickly and easily
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
